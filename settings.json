@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friendsonlysmp-7884.aternos.me",
-    "port": 25668
+    "ip": "friendsonlysmp-7884.aternos.me
+    ",
+    "port": cavefish.aternos.host:25668
     ,
     "version": "1.21.1
     
